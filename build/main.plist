@@ -436,6 +436,24 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>緋英</string>
+		<key>shortcut</key>
+		<string>ひえい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>朽葉</string>
+		<key>shortcut</key>
+		<string>くちば</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>パール</string>
+		<key>shortcut</key>
+		<string>ぱーる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>星</string>
 		<key>shortcut</key>
 		<string>せい</string>
@@ -622,6 +640,24 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>幻月</string>
+		<key>shortcut</key>
+		<string>げんげつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>初</string>
+		<key>shortcut</key>
+		<string>うい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>幻造種</string>
+		<key>shortcut</key>
+		<string>げんぞうしゅ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>宇宙ステーション「ヘルタ」</string>
 		<key>shortcut</key>
 		<string>うちゅうすてーしょんへるた</string>
@@ -697,6 +733,24 @@
 		<string>二相楽園</string>
 		<key>shortcut</key>
 		<string>にそうらくえん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>アハトピア</string>
+		<key>shortcut</key>
+		<string>あはとぴあ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>弁財天国</string>
+		<key>shortcut</key>
+		<string>べんざいてんごく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>危篤冗棟</string>
+		<key>shortcut</key>
+		<string>きとくじょうとう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1030,6 +1084,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>無漏浄子</string>
+		<key>shortcut</key>
+		<string>むろじょうし</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>弔伶人</string>
 		<key>shortcut</key>
 		<string>とむらいれいじん</string>
@@ -1177,6 +1237,12 @@
 		<string>呼雷</string>
 		<key>shortcut</key>
 		<string>ふーれい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>死告魔</string>
+		<key>shortcut</key>
+		<string>しつげま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
