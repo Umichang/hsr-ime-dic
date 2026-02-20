@@ -658,6 +658,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>願力</string>
+		<key>shortcut</key>
+		<string>がんりき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>宇宙ステーション「ヘルタ」</string>
 		<key>shortcut</key>
 		<string>うちゅうすてーしょんへるた</string>
