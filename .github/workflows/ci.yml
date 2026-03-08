@@ -17,7 +17,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout nijisanji-ime-dic
+      - name: Checkout hsr-ime-dic
         uses: actions/checkout@v6
 
       - name: Checkout userdic-py
