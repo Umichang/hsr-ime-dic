@@ -1,7 +1,9 @@
 # hsr-ime-dic
 
 『崩壊：スターレイル』の固有名詞を中心にした、日本語入力用のユーザー辞書です。  
-Microsoft IME 形式（`utf8/main.txt`）を元データとして、macOS・Gboard・ATOK向けの辞書データも `Makefile` から生成できます。
+Microsoft IME 形式（`utf8/main.txt`）を元データとして、macOS・Gboard向けの辞書データを `Makefile` から生成できます。
+
+ATOK 対応は廃止しました。
 
 このリポジトリは [Umichang/nijisanji-ime-dic](https://github.com/Umichang/nijisanji-ime-dic) の構成を参考にしています。
 
@@ -12,7 +14,6 @@ Microsoft IME 形式（`utf8/main.txt`）を元データとして、macOS・Gboa
 - [`main.txt`](https://github.com/Umichang/hsr-ime-dic/releases/latest/download/main.txt) : Microsoft IME（UTF-16）
 - [`main.plist`](https://github.com/Umichang/hsr-ime-dic/releases/latest/download/main.plist) : macOS ユーザ辞書
 - [`main.zip`](https://github.com/Umichang/hsr-ime-dic/releases/latest/download/main.zip) : Gboard（Android）インポート用
-- [`main.atok.txt`](https://github.com/Umichang/hsr-ime-dic/releases/latest/download/main.atok.txt) : ATOK 用テキスト
 
 必要な形式のファイルをダウンロードして利用してください。
 
@@ -33,11 +34,6 @@ Microsoft IME 形式（`utf8/main.txt`）を元データとして、macOS・Gboa
 
 1. `build/main.zip` を端末に保存
 2. Gboard の辞書インポート機能から読み込み
-
-### ATOK
-
-1. `build/main.atok.txt` を用意
-2. ATOK の辞書ユーティリティからテキスト辞書として登録
 
 ## 自分でビルドする
 
