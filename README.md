@@ -9,10 +9,10 @@ Microsoft IME 形式（`utf8/main.txt`）を元データとして、macOS・Gboa
 
 `build/` には以下の辞書ファイルを同梱しています。
 
-- `main.txt` : Microsoft IME（UTF-16）
-- `main.plist` : macOS ユーザ辞書
-- `main.zip` : Gboard（Android）インポート用
-- `main.atok.txt` : ATOK 用テキスト
+- [`main.txt`](https://github.com/Umichang/hsr-ime-dic/releases/latest/download/main.txt) : Microsoft IME（UTF-16）
+- [`main.plist`](https://github.com/Umichang/hsr-ime-dic/releases/latest/download/main.plist) : macOS ユーザ辞書
+- [`main.zip`](https://github.com/Umichang/hsr-ime-dic/releases/latest/download/main.zip) : Gboard（Android）インポート用
+- [`main.atok.txt`](https://github.com/Umichang/hsr-ime-dic/releases/latest/download/main.atok.txt) : ATOK 用テキスト
 
 必要な形式のファイルをダウンロードして利用してください。
 
