@@ -454,6 +454,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>千冶</string>
+		<key>shortcut</key>
+		<string>せんや</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>星</string>
 		<key>shortcut</key>
 		<string>せい</string>
