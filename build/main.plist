@@ -478,6 +478,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>無量塔</string>
+		<key>shortcut</key>
+		<string>むらた</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ヴェルト・ヨウ</string>
 		<key>shortcut</key>
 		<string>ゔぇるとよう</string>
